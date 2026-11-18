@@ -5,7 +5,7 @@ import numpy as np
 import sklearn
 print("MLOps Environment verification")
 print("Python:" ,sys.version.split()[0])
-print("pandas:",pd._version_)
+print("pandas:", pd.__version__)
 print("NumPy:", np.__version__)
 print("Scikit-learn:", sklearn.__version__)
 project_root = Path(__file__).resolve().parent.parent
