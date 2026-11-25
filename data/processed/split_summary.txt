@@ -1,4 +1,0 @@
-Training rows: 23472
-Validation rows: 5029
-Test rows: 5031
-Persistence test MAE: 11.04
